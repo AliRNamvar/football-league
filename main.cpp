@@ -6,12 +6,12 @@
 
 using namespace std;
 
-// ***** Start Prototypes ****** //
+// ***** Start of Prototypes ****** //
 vector<string> read_game_score(void);
 bool check_correct_team_input(string);
 bool check_correct_score_input(string);
 
-// *****  End Prototypes  ****** //
+// *****   End of Prototypes ****** //
 
 
 int main(int argc, char const *argv[]) {
